@@ -1,6 +1,6 @@
 # Google Drive Uploader Telegram Bot
 **A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/uploadgdrivebot)
+- Find it on Telegram as [Google Drive Uploader](https://t.me/mirzasaikatahmmed)
 
 ## Features
 - [X] Telegram files support.
@@ -21,12 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viperadnan-git/google-drive-telegram-bot/tree/master)
-
-### How To Deploy Video Tutorial:
-
-[![](https://i.ytimg.com/vi/5Ke_q2_5mNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAArIzsqRXHm_KX5WSxmyXRfrpt8A)](https://youtu.be/5Ke_q2_5mNU)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirzasaikatahmmed/gdrive-telegram-bot/tree/master)
 
 ### Installation
 - Install required modules.
@@ -35,7 +30,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/viperadnan-git/google-drive-telegram-bot
+git clone https://github.com/mirzasaikatahmmed/gdrive-telegram-bot
 ```
 - Change Directory
 ```sh 
@@ -76,10 +71,7 @@ python3 -m bot
 - del - Delete GDrive Files
 
 ## Credits
-- [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
-- [Spechide](https://github.com/Spechide) for [gDriveDB.py](./bot/helpers/sql_helper/gDriveDB.py)
-- [Shivam Jha](https://github.com/lzzy12) for [Clone Feature](./bot/helpers/gdrive_utils/gDrive.py) from [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
+- [Saikat](https://github.com/mirzasaikatahmmed)
 
 ## Copyright & License
-- Copyright (©) 2020 by [Adnan Ahmad](https://github.com/viperadnan-git)
-- Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
+- Copyright (©) 2020 by [Saikat](https://github.com/mirzasaikatahmmed)
