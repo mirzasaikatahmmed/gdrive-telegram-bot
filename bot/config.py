@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1853947196:AAFLd8ffenUKN4Cv7nG2W83Xcf6mALvvj1E"
     APP_ID = "3142204"
     API_HASH = "0d9edde42afce632a54d55b22fb9b56f"
-    DATABASE_URL = "postgres://wihabwkdgujwqc:a145c34f02432ad784d07402567df00125dcbcfa02ff21ffde22185be4fda06a@ec2-34-200-94-86.compute-1.amazonaws.com:5432/d8dtd9q7euhp4n"
+    DATABASE_URL = "postgres://cdvjgeqzlyksrw:3199dc7a911b6e89724fd19cd5a24727bce96e268a5af20fbb6ae4cfa467bf0e@ec2-54-160-96-70.compute-1.amazonaws.com:5432/d4c6ik0hcln0vs"
     SUDO_USERS = "994938597" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/gdriveuploadermsa"
     DOWNLOAD_DIRECTORY = "./downloads/"
